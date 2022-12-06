@@ -7,7 +7,11 @@ const emojiDictionary = {
   "😠": "angry",
   "🙂": "smiling",
   "😞": "disappointed",
-  "😭": "crying"
+  "😭": "crying",
+  "🤔": "thinking",
+  "🤥": "lying",
+  "😪": "sleepy",
+  "😟": "worried"
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary);
